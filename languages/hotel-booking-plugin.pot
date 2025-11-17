@@ -1,0 +1,53 @@
+msgid "Search for Hotels"
+msgstr ""
+
+msgid "Check-in Date"
+msgstr ""
+
+msgid "Check-out Date"
+msgstr ""
+
+msgid "Number of Rooms"
+msgstr ""
+
+msgid "Adults"
+msgstr ""
+
+msgid "Children"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "No results found."
+msgstr ""
+
+msgid "Hotel Details"
+msgstr ""
+
+msgid "Price per Night"
+msgstr ""
+
+msgid "Book Now"
+msgstr ""
+
+msgid "Your Booking"
+msgstr ""
+
+msgid "Check-in"
+msgstr ""
+
+msgid "Check-out"
+msgstr ""
+
+msgid "Total Price"
+msgstr ""
+
+msgid "Confirm Booking"
+msgstr ""
+
+msgid "Booking Successful"
+msgstr ""
+
+msgid "Booking Failed"
+msgstr ""
