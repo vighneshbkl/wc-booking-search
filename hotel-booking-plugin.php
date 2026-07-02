@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Hotel Booking Plugin
+ * Plugin Name: Hotel Booking Search
  * Description: A plugin to implement hotel booking functionality using WooCommerce Bookings.
  * Version: 1.0
- * Author: Your Name
- * Text Domain: hotel-booking-plugin
+ * Author: Vighnesh Acharya
+ * Text Domain: hotel-booking-search
  */
 
 // Prevent direct access
